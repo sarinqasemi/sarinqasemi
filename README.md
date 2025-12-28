@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sarin</h1>
 <h3 align="center">A passionate backend developer from Iran</h3>
 
-<img align="right" alt="Sarin" width = "400" src="https://fabacademy.org/2024/labs/chaihuo/students/dion-tsang/assignments/ISAGeekClub/Lesson03/runningDino-ezgif.com-video-to-gif-converter.gif">
+<img align="right" alt="Sarin" width = "400" src="https://miro.medium.com/v2/resize:fit:1100/1*63huS_CKlpKPOV0GRlMs1g.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarinqasemi&label=Profile%20views&color=0e75b6&style=flat" alt="sarinqasemi" /> </p>
 
